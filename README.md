@@ -14,7 +14,7 @@ This project focuses on analyzing business sales data to extract meaningful insi
 * **Data Source:** superstore sales Dataset
 
 ##  Key Insights
-* Canon Copiers and Apple iPhones generate the highest revenue for the business
+* Canon Copiers  generate the highest revenue for the business
 * Every calendar year shows massive sales revenue performance spikes across November and December
 * The West Region delivers the absolute highest net profit yield compared to other territories
 * The Technology segment outpaces Furniture and Office Supplies in net financial profit margins
