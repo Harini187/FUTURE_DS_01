@@ -1,4 +1,4 @@
-# Business Sales Analytics Dashboard (FUTURE_DS_01)
+# Business Sales Analytics Dashboard 
 
 ##  Project Overview
 This project focuses on analyzing business sales data to extract meaningful insights and support data-driven decision-making. The dashboard provides a clear view of revenue trends, product performance, and regional sales distribution. The objective is to simulate a real-world business scenario where a data analyst helps stakeholders understand performance and identify growth opportunities.
